@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="majin sunky 2.0.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Majin Sunky Idle0000" x="0" y="0" width="1144" height="794"/>
+	<SubTexture name="Majin Sunky Idle0001" x="0" y="794" width="1144" height="794"/>
+	<SubTexture name="Majin Sunky Idle0002" x="0" y="1588" width="1144" height="794"/>
+	<SubTexture name="Majin Sunky Idle0003" x="0" y="2382" width="1144" height="794"/>
+	<SubTexture name="Majin Sunky Idle0004" x="0" y="3176" width="946" height="794" frameX="-111" frameY="0" frameWidth="1144" frameHeight="794"/>
+	<SubTexture name="Majin Sunky Idle0005" x="946" y="3176" width="946" height="794" frameX="-111" frameY="0" frameWidth="1144" frameHeight="794"/>
+	<SubTexture name="Majin Sunky Idle0006" x="1144" y="0" width="946" height="794" frameX="-111" frameY="0" frameWidth="1144" frameHeight="794"/>
+	<SubTexture name="Majin Sunky Idle0007" x="1144" y="794" width="946" height="794" frameX="-111" frameY="0" frameWidth="1144" frameHeight="794"/>
+	<SubTexture name="Majin Sunky Idle0008" x="1892" y="1588" width="946" height="794" frameX="-111" frameY="0" frameWidth="1144" frameHeight="794"/>
+	<SubTexture name="Majin Sunky Idle0009" x="2090" y="0" width="946" height="794" frameX="-111" frameY="0" frameWidth="1144" frameHeight="794"/>
+	<SubTexture name="Majin Sunky Idle0010" x="2090" y="794" width="946" height="794" frameX="-111" frameY="0" frameWidth="1144" frameHeight="794"/>
+	<SubTexture name="Majin Sunky Idle0011" x="1892" y="2382" width="946" height="794" frameX="-111" frameY="0" frameWidth="1144" frameHeight="794"/>
+	<SubTexture name="Majin Sunky Idle0012" x="1892" y="3176" width="946" height="794" frameX="-111" frameY="0" frameWidth="1144" frameHeight="794"/>
+	<SubTexture name="Majin Sunky Idle0013" x="2838" y="1588" width="946" height="794" frameX="-111" frameY="0" frameWidth="1144" frameHeight="794"/>
+	<SubTexture name="Majin Sunky Idle0014" x="3036" y="0" width="946" height="794" frameX="-111" frameY="0" frameWidth="1144" frameHeight="794"/>
+	<SubTexture name="Majin Sunky Idle0015" x="3036" y="794" width="946" height="794" frameX="-111" frameY="0" frameWidth="1144" frameHeight="794"/>
+	<SubTexture name="Majin Sunky Idle0016" x="2838" y="2382" width="946" height="794" frameX="-111" frameY="0" frameWidth="1144" frameHeight="794"/>
+	<SubTexture name="Majin Sunky Idle0017" x="2838" y="3176" width="946" height="794" frameX="-111" frameY="0" frameWidth="1144" frameHeight="794"/>
+	<SubTexture name="Majin Sunky Idle0018" x="3784" y="1588" width="946" height="794" frameX="-111" frameY="0" frameWidth="1144" frameHeight="794"/>
+	<SubTexture name="Majin Sunky Idle0019" x="3982" y="0" width="946" height="794" frameX="-111" frameY="0" frameWidth="1144" frameHeight="794"/>
+	<SubTexture name="Majin Sunky Idle0020" x="3982" y="794" width="946" height="794" frameX="-111" frameY="0" frameWidth="1144" frameHeight="794"/>
+	<SubTexture name="Majin Sunky Idle0021" x="3784" y="2382" width="946" height="794" frameX="-111" frameY="0" frameWidth="1144" frameHeight="794"/>
+	<SubTexture name="Majin Sunky Idle0022" x="3784" y="3176" width="946" height="794" frameX="-111" frameY="0" frameWidth="1144" frameHeight="794"/>
+	<SubTexture name="Majin Sunky Idle0023" x="4730" y="1588" width="946" height="794" frameX="-111" frameY="0" frameWidth="1144" frameHeight="794"/>
+</TextureAtlas>
